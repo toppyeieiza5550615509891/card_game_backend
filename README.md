@@ -1,8 +1,10 @@
 # card_game_backend
+```
     เกม จับคู่ไพ่ โดยใช้ 
     stack 
         backend: fastapi (base on python)
         frontend: react
+```
 
 # Important
     - python >= 3.6
