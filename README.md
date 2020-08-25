@@ -9,6 +9,6 @@
 
 # Deploy
 ```
-  $ docker build -t myimage .\
+  $ docker build -t myimage .
   $ docker run -d --name mycontainer -p 8000:80 myimage
 ```
